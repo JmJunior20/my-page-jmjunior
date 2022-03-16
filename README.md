@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Site de apresentação simples, utilizandos conceitos de HTML e CSS aprendidos com o vídeo da Rafaella Bellerini.
+Site de apresentação, utilizando conceitos de HTML e CSS aprendidos com o vídeo da Rafaella Bellerini.
 </p>
 
 <p align="center">
